@@ -1,0 +1,52 @@
+.flex{
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.ac-center {
+  align-content: center;
+}
+
+.h100 {
+  height: 100vh;
+}
+
+.w50 {
+  width: 50vw;
+}
+
+
+.w90 {
+  width: 90vw;
+}
+
+.w100 {
+  width: 100vw;
+}
+
+.w75-percent {
+  width: 75%;
+}
+
+.w100-percent {
+  width: 100%;
+}
+
+.h90 {
+  height: 90vh;
+}
+
+.m-auto {
+  margin: 0 auto
+}
+
+.column {
+  flex-direction: column;
+}

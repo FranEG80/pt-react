@@ -1,0 +1,4 @@
+.item-container:hover {
+  border: 1px solid white;
+  box-shadow: 10px 10px 15px rgb(255, 255, 255);
+}
